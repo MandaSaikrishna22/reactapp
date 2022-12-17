@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09bb833c.css",
+    "main.js": "/static/js/main.94b5cf30.js",
+    "static/js/787.2be84fa0.chunk.js": "/static/js/787.2be84fa0.chunk.js",
+    "static/media/Iron_Man_(circa_2018).png": "/static/media/Iron_Man_(circa_2018).fa680ddcde6ca133e198.png",
+    "static/media/eye open icon.png": "/static/media/eye open icon.3256f2f7c98c56762c37.png",
+    "static/media/eye close icon.png": "/static/media/eye close icon.7d79e4b163fcb068c650.png",
+    "index.html": "/index.html",
+    "main.09bb833c.css.map": "/static/css/main.09bb833c.css.map",
+    "main.94b5cf30.js.map": "/static/js/main.94b5cf30.js.map",
+    "787.2be84fa0.chunk.js.map": "/static/js/787.2be84fa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09bb833c.css",
+    "static/js/main.94b5cf30.js"
+  ]
+}
